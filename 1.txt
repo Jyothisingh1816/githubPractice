@@ -1,5 +1,0 @@
-class Test{
-        public static void main (string[] args)
-        system .out .print(
-}
-class student(models.Model):
